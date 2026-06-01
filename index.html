@@ -1,46 +1,50 @@
 <!DOCTYPE html>
 <html>
-
 <head>
+  <meta charset="UTF-8">
   <title>كوينز مجاني حقيقي</title>
+
+  <style>
+    body {
+      font-family: Arial;
+      padding: 20px;
+    }
+
+    .circle {
+      width: 50px;
+      height: 50px;
+      background: yellow;
+      border-radius: 50%;
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: bold;
+      margin: 5px;
+    }
+  </style>
 </head>
-<style>
-.circle {
-  width: 40px;
-  height: 40px;
-  background: yellow;
-  border-radius: 50%;
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  font-weight: bold;
-  margin: 5px;
-}
-</style>
+
 <body>
 
   <h1>تسجيل الدخول</h1>
 
   <form>
+    <label>Email</label><br>
+    <input type="text"><br><br>
 
-    <label>Email</label>
-    <input type="text" name="username">
-
-    <br><br>
-
-    <label>Mot de passe</label>
-    <input type="password" name="password">
-
-    <br><br>
+    <label>Mot de passe</label><br>
+    <input type="password"><br><br>
 
     <button type="submit">اضغط</button>
-
   </form>
-<span class="circle">1000</span>
-<span class="circle">2000</span>
-<span class="circle">3000</span>
-<span class="circle">4000</span>
-<span class="circle">50000</span>
-</body>
 
+  <br>
+
+  <span class="circle">1000</span>
+  <span class="circle">2000</span>
+  <span class="circle">3000</span>
+  <span class="circle">4000</span>
+  <span class="circle">50000</span>
+
+</body>
 </html>
