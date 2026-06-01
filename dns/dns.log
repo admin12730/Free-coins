@@ -1,0 +1,32 @@
+May 30 11:19:05 dnsmasq[19570]: started, version 2.92 cachesize 150
+May 30 11:19:05 dnsmasq[19570]: compile time options: IPv6 GNU-getopt no-DBus no-UBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack ipset no-nftset auth no-DNSSEC loop-detect inotify dumpfile
+May 30 11:19:05 dnsmasq[19570]: warning: failed to change owner of /data/data/com.termux/files/home/dns/dns.log: Operation not permitted
+May 30 11:19:05 dnsmasq[19570]: using nameserver 1.1.1.1#53
+May 30 11:19:05 dnsmasq[19570]: read /etc/hosts - 2 names
+May 30 11:20:41 dnsmasq[19570]: query[A] google.com from 127.0.0.1
+May 30 11:20:41 dnsmasq[19570]: forwarded google.com to 1.1.1.1
+May 30 11:20:41 dnsmasq[19570]: reply google.com is 142.251.140.238
+May 30 11:23:20 dnsmasq[19570]: exiting on receipt of SIGTERM
+May 30 11:23:25 dnsmasq[20903]: started, version 2.92 cachesize 150
+May 30 11:23:25 dnsmasq[20903]: compile time options: IPv6 GNU-getopt no-DBus no-UBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack ipset no-nftset auth no-DNSSEC loop-detect inotify dumpfile
+May 30 11:23:25 dnsmasq[20903]: warning: failed to change owner of /data/data/com.termux/files/home/dns/dns.log: Operation not permitted
+May 30 11:23:25 dnsmasq[20903]: using nameserver 1.1.1.1#53
+May 30 11:23:25 dnsmasq[20903]: using nameserver 1.1.1.2#53
+May 30 11:23:25 dnsmasq[20903]: read /etc/hosts - 2 names
+May 30 11:27:29 dnsmasq[21565]: started, version 2.92 cachesize 150
+May 30 11:27:29 dnsmasq[21565]: compile time options: IPv6 GNU-getopt no-DBus no-UBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack ipset no-nftset auth no-DNSSEC loop-detect inotify dumpfile
+May 30 11:27:29 dnsmasq[21565]: warning: failed to change owner of /data/data/com.termux/files/home/dns/dns.log: Operation not permitted
+May 30 11:27:29 dnsmasq[21565]: using nameserver 1.1.1.1#53
+May 30 11:27:29 dnsmasq[21565]: using nameserver 1.1.1.2#53
+May 30 11:27:29 dnsmasq[21565]: read /etc/hosts - 2 names
+May 30 11:32:40 dnsmasq[22628]: started, version 2.92 cachesize 150
+May 30 11:32:40 dnsmasq[22628]: compile time options: IPv6 GNU-getopt no-DBus no-UBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack ipset no-nftset auth no-DNSSEC loop-detect inotify dumpfile
+May 30 11:32:40 dnsmasq[22628]: warning: failed to change owner of /data/data/com.termux/files/home/dns/dns.log: Operation not permitted
+May 30 11:32:40 dnsmasq[22628]: using nameserver 1.1.1.1#53
+May 30 11:32:40 dnsmasq[22628]: using nameserver 1.1.1.2#53
+May 30 11:32:40 dnsmasq[22628]: read /etc/hosts - 2 names
+May 30 11:32:56 dnsmasq[22628]: query[A] google.com from 127.0.0.1
+May 30 11:32:56 dnsmasq[22628]: forwarded google.com to 1.1.1.1
+May 30 11:32:56 dnsmasq[22628]: forwarded google.com to 1.1.1.2
+May 30 11:32:56 dnsmasq[22628]: reply google.com is 142.251.140.238
+May 31 11:48:09 dnsmasq[22628]: read /etc/hosts - 2 names
